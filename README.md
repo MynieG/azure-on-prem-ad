@@ -34,7 +34,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </p>
 <p>
 Create the Domain Controller VM (Windows Server 2022) named “DC-1”
- and Create the Client VM (Windows 10) named “Client-1
+ and Create the Client VM (Windows 10) named “Client1
 </p>
 <br />
 
