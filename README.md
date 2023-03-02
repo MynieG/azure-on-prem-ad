@@ -48,7 +48,7 @@ Login to Client-1 with Remote Desktop and ping DC-1’s private IP address with 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/74on3w4.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Login to DC-1 and install Active Directory Domain Services
